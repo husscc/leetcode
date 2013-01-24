@@ -21,6 +21,6 @@ public:
 			x1=x2;
 			x2=x1/2+x/(2*x1);					
 		}while(x1-x2!=0);					
-		return x1;										
+		return x1;		
 	}											
 };
