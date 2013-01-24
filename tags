@@ -1,0 +1,250 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ListNode	AddTwoNumbers.cpp	/^   ListNode(int x) : val(x), next(NULL) {}$/;"	f	struct:ListNode
+ListNode	AddTwoNumbers.cpp	/^ struct ListNode {$/;"	s	file:
+Make_Pair	LetterCombinationsofaPhoneNumber.cpp	/^    typedef pair<int,string> Make_Pair;$/;"	t	class:Solution	file:
+NodeInfo	ConstructBinaryTreefromInorderandPostorderTraversal.cpp	/^		NodeInfo(TreeNode* ptr,int si,int ei,int sp,int ep):root(ptr),start_in(si),end_in(ei),start_post(sp),end_post(ep){}$/;"	f	struct:Solution::NodeInfo
+NodeInfo	ConstructBinaryTreefromInorderandPostorderTraversal.cpp	/^	struct NodeInfo{$/;"	s	class:Solution	file:
+NodeInfo	ConstructBinaryTreefromPreorderandInorderTraversal.cpp	/^		NodeInfo(TreeNode *ptr,int sp,int ep,int si,int ei):root(ptr),start_pre(sp),end_pre(ep),start_in(si),end_in(ei){}$/;"	f	struct:Solution::NodeInfo
+NodeInfo	ConstructBinaryTreefromPreorderandInorderTraversal.cpp	/^	struct NodeInfo{$/;"	s	class:Solution	file:
+PosInfo	LargestRectangleinHistogram.cpp	/^		PosInfo(int h,int p):height(h),pos(p){}$/;"	f	struct:Solution::PosInfo
+PosInfo	LargestRectangleinHistogram.cpp	/^    struct PosInfo{$/;"	s	class:Solution	file:
+PtrInfo	unsolved/InterleavingString_StackMethod.cpp	/^		PtrInfo(int p1,int p2,int p3):ptr1(p1),ptr2(p2),ptr3(p3){}$/;"	f	struct:Solution::PtrInfo
+PtrInfo	unsolved/InterleavingString_StackMethod.cpp	/^    struct PtrInfo{$/;"	s	class:Solution	file:
+Solution	3Sum Closest.cpp	/^class Solution {$/;"	c	file:
+Solution	3sum.cpp	/^class Solution {$/;"	c	file:
+Solution	4Sum.cpp	/^class Solution {$/;"	c	file:
+Solution	AddBinary.cpp	/^class Solution {$/;"	c	file:
+Solution	AddTwoNumbers.cpp	/^class Solution {$/;"	c	file:
+Solution	Anagrams.cpp	/^class Solution {    $/;"	c	file:
+Solution	BestTimetoBuyandSellStock.cpp	/^class Solution {$/;"	c	file:
+Solution	BestTimetoBuyandSellStockII.cpp	/^class Solution {$/;"	c	file:
+Solution	BestTimetoBuyandSellStockIII.cpp	/^class Solution {$/;"	c	file:
+Solution	BinaryTreeInorderTraversal.cpp	/^class Solution {$/;"	c	file:
+Solution	BinaryTreeLevelOrderTraversal.cpp	/^class Solution {$/;"	c	file:
+Solution	BinaryTreeLevelOrderTraversalII.cpp	/^class Solution {$/;"	c	file:
+Solution	BinaryTreeMaximumPathSum.cpp	/^class Solution {$/;"	c	file:
+Solution	BinaryTreeZigzagLevelOrderTraversal.cpp	/^class Solution {$/;"	c	file:
+Solution	ClimbingStairs.cpp	/^class Solution {$/;"	c	file:
+Solution	CombinationSum.cpp	/^class Solution {$/;"	c	file:
+Solution	CombinationSumII.cpp	/^class Solution {$/;"	c	file:
+Solution	Combinations.cpp	/^class Solution {$/;"	c	file:
+Solution	ConstructBinaryTreefromInorderandPostorderTraversal.cpp	/^class Solution {$/;"	c	file:
+Solution	ConstructBinaryTreefromPreorderandInorderTraversal.cpp	/^class Solution {$/;"	c	file:
+Solution	ContainerWithMostWater.cpp	/^class Solution {$/;"	c	file:
+Solution	ConvertSortedArraytoBinarySearchTree.cpp	/^class Solution {$/;"	c	file:
+Solution	ConvertSortedListtoBinarySearchTree.cpp	/^class Solution {$/;"	c	file:
+Solution	CountandSay.cpp	/^class Solution {$/;"	c	file:
+Solution	DecodeWays.cpp	/^class Solution {$/;"	c	file:
+Solution	DistinctSubsequence.cpp	/^class Solution {$/;"	c	file:
+Solution	DivideTwoIntegers.cpp	/^class Solution {$/;"	c	file:
+Solution	EditDistance.cpp	/^class Solution {$/;"	c	file:
+Solution	FirstMissingPositive.cpp	/^class Solution {$/;"	c	file:
+Solution	FirstMissingPositive_binarySearch.cpp	/^class Solution {$/;"	c	file:
+Solution	FlattenBinaryTreetoLinkedList.cpp	/^class Solution {$/;"	c	file:
+Solution	GenerateParentheses.cpp	/^class Solution {$/;"	c	file:
+Solution	GrayCode.cpp	/^class Solution {$/;"	c	file:
+Solution	ImplementstrStr().cpp	/^class Solution {$/;"	c	file:
+Solution	InsertInterval.cpp	/^class Solution {$/;"	c	file:
+Solution	IntegertoRoman.cpp	/^class Solution {$/;"	c	file:
+Solution	InterleavingString.cpp	/^class Solution {$/;"	c	file:
+Solution	JumpGame.cpp	/^class Solution {$/;"	c	file:
+Solution	JumpGameII.cpp	/^class Solution {$/;"	c	file:
+Solution	LargestRectangleinHistogram.cpp	/^class Solution {$/;"	c	file:
+Solution	LengthofLastWord.cpp	/^class Solution {$/;"	c	file:
+Solution	LetterCombinationsofaPhoneNumber.cpp	/^class Solution {$/;"	c	file:
+Solution	LongestCommonPrefix.cpp	/^class Solution {$/;"	c	file:
+Solution	LongestPalindromicSubstring.cpp	/^class Solution {$/;"	c	file:
+Solution	LongestSubstringWithoutRepeatingCharacters.cpp	/^class Solution {$/;"	c	file:
+Solution	LongestValidParentheses.cpp	/^class Solution {$/;"	c	file:
+Solution	MaximalRectangle.cpp	/^class Solution {$/;"	c	file:
+Solution	MaximumDepthofBinaryTree.cpp	/^class Solution {$/;"	c	file:
+Solution	MaximumSubarray.cpp	/^class Solution {$/;"	c	file:
+Solution	MedianofTwoSortedArrays.cpp	/^class Solution {$/;"	c	file:
+Solution	MergeIntervals.cpp	/^class Solution {$/;"	c	file:
+Solution	MergeSortedArray.cpp	/^class Solution {$/;"	c	file:
+Solution	MergeTwoSortedLists.cpp	/^class Solution {$/;"	c	file:
+Solution	MergekSortedLists.cpp	/^class Solution {$/;"	c	file:
+Solution	MinimumDepthofBinaryTree.cpp	/^class Solution {$/;"	c	file:
+Solution	MinimumPathSum.cpp	/^class Solution {$/;"	c	file:
+Solution	MinimumWindowSubstring.cpp	/^class Solution {$/;"	c	file:
+Solution	MultiplyStrings.cpp	/^class Solution {$/;"	c	file:
+Solution	N-Queens.cpp	/^class Solution {$/;"	c	file:
+Solution	N-QueensII.cpp	/^class Solution {$/;"	c	file:
+Solution	NextPermutation.cpp	/^class Solution {$/;"	c	file:
+Solution	RotateImage.cpp	/^class Solution {$/;"	c	file:
+Solution	RotateList.cpp	/^class Solution {$/;"	c	file:
+Solution	Test/AnagramsLoop.cpp	/^class Solution {$/;"	c	file:
+Solution	Test/test.cpp	/^class Solution {$/;"	c	file:
+Solution	ValidParentheses.cpp	/^class Solution {$/;"	c	file:
+Solution	ValidSudoku.cpp	/^class Solution {$/;"	c	file:
+Solution	ValidateBinarySearchTree.cpp	/^class Solution {$/;"	c	file:
+Solution	WildcardMatching(withWildcardTwoside) - Copy.cpp	/^class Solution {$/;"	c	file:
+Solution	WildcardMatching.cpp	/^class Solution {$/;"	c	file:
+Solution	WordSearch.cpp	/^class Solution {$/;"	c	file:
+Solution	ZigZag Conversion.cpp	/^class Solution {$/;"	c	file:
+Solution	unsolved/InterleavingString_StackMethod.cpp	/^class Solution {$/;"	c	file:
+Solution	unsolved/LargestRectangleinHistogram_Normal.cpp	/^class Solution {$/;"	c	file:
+Solution	unsolved/LargestRectangleinHistogram_dp.cpp	/^class Solution {$/;"	c	file:
+_step	WordSearch.cpp	/^		int _step;$/;"	m	struct:Solution::location	file:
+_x	WordSearch.cpp	/^        int _x;$/;"	m	struct:Solution::location	file:
+_y	WordSearch.cpp	/^		int _y;$/;"	m	struct:Solution::location	file:
+addBinary	AddBinary.cpp	/^    static string addBinary(string a, string b) {$/;"	f	class:Solution
+addStr	MultiplyStrings.cpp	/^    inline string addStr(string s1,string s2){$/;"	f	class:Solution	file:
+addTwoNumbers	AddTwoNumbers.cpp	/^    ListNode *addTwoNumbers(ListNode *l1, ListNode *l2) {$/;"	f	class:Solution
+addr	BinaryTreeLevelOrderTraversal.cpp	/^		TreeNode *addr;$/;"	m	struct:Solution::info	file:
+addr	BinaryTreeLevelOrderTraversalII.cpp	/^		TreeNode *addr;$/;"	m	struct:Solution::info	file:
+addr	BinaryTreeZigzagLevelOrderTraversal.cpp	/^		TreeNode *addr;$/;"	m	struct:Solution::info	file:
+anagrams	Anagrams.cpp	/^    vector<string> anagrams(vector<string> &strs) {$/;"	f	class:Solution
+anagrams	Test/AnagramsLoop.cpp	/^    vector<string> anagrams(vector<string> &strs) {$/;"	f	class:Solution
+boardSize	N-Queens.cpp	/^    int boardSize;$/;"	m	class:Solution	file:
+boardSize	Test/test.cpp	/^    int boardSize;$/;"	m	class:Solution	file:
+boardsize	N-QueensII.cpp	/^    int boardsize;$/;"	m	class:Solution	file:
+buildTree	ConstructBinaryTreefromInorderandPostorderTraversal.cpp	/^    TreeNode *buildTree(vector<int> &inorder, vector<int> &postorder) {$/;"	f	class:Solution
+buildTree	ConstructBinaryTreefromPreorderandInorderTraversal.cpp	/^    TreeNode *buildTree(vector<int> &preorder, vector<int> &inorder) {$/;"	f	class:Solution
+buildTree	ConvertSortedArraytoBinarySearchTree.cpp	/^    void buildTree(TreeNode *root,vector<int> &num,int start,int end){$/;"	f	class:Solution	file:
+buildTree	FlattenBinaryTreetoLinkedList.cpp	/^    TreeNode* buildTree(TreeNode *ptr,TreeNode *res){$/;"	f	class:Solution	file:
+canJump	JumpGame.cpp	/^    bool canJump(int A[], int n) {$/;"	f	class:Solution
+charcount	Anagrams.cpp	/^    int charcount[26];$/;"	m	class:Solution	file:
+climbStairs	ClimbingStairs.cpp	/^    int climbStairs(int n) {$/;"	f	class:Solution
+combinationSum	CombinationSum.cpp	/^    vector<vector<int> > combinationSum(vector<int> &candidates, int target) {$/;"	f	class:Solution
+combinationSum2	CombinationSumII.cpp	/^    vector<vector<int> > combinationSum2(vector<int> &num, int target) {$/;"	f	class:Solution
+combine	Combinations.cpp	/^    vector<vector<int> > combine(int n, int k) {$/;"	f	class:Solution
+comp	MergeIntervals.cpp	/^    struct comp{$/;"	s	class:Solution	file:
+comp	MergekSortedLists.cpp	/^    struct comp{$/;"	s	class:Solution	file:
+compleft	ValidateBinarySearchTree.cpp	/^    bool compleft(int nVal,TreeNode* leftnode){$/;"	f	class:Solution	file:
+compobj	MergeIntervals.cpp	/^	} compobj;$/;"	m	class:Solution	typeref:struct:Solution::comp	file:
+compright	ValidateBinarySearchTree.cpp	/^	bool compright(int nVal,TreeNode* rightnode){$/;"	f	class:Solution	file:
+convert	ZigZag Conversion.cpp	/^    string convert(string s, int nRows) {$/;"	f	class:Solution
+countAndSay	CountandSay.cpp	/^    string countAndSay(int n) {$/;"	f	class:Solution
+createString	LetterCombinationsofaPhoneNumber.cpp	/^    void createString(string &digits,int ptr,hash_map<int,string> &hm,string str,vector<string> &res){$/;"	f	class:Solution	file:
+createTree	ConvertSortedListtoBinarySearchTree.cpp	/^    TreeNode* createTree(ListNode *start,int len){$/;"	f	class:Solution	file:
+direction	WordSearch.cpp	/^		int direction;$/;"	m	struct:Solution::location	file:
+divide	DivideTwoIntegers.cpp	/^    int divide(int dividend, int divisor) {$/;"	f	class:Solution
+end_in	ConstructBinaryTreefromInorderandPostorderTraversal.cpp	/^		int end_in;$/;"	m	struct:Solution::NodeInfo	file:
+end_in	ConstructBinaryTreefromPreorderandInorderTraversal.cpp	/^		int end_in;$/;"	m	struct:Solution::NodeInfo	file:
+end_post	ConstructBinaryTreefromInorderandPostorderTraversal.cpp	/^		int end_post;$/;"	m	struct:Solution::NodeInfo	file:
+end_pre	ConstructBinaryTreefromPreorderandInorderTraversal.cpp	/^		int end_pre;$/;"	m	struct:Solution::NodeInfo	file:
+exist	WordSearch.cpp	/^    bool exist(vector<vector<char> > &board, string word) {$/;"	f	class:Solution
+findComb	Combinations.cpp	/^    void findComb(vector<vector<int> > &res,vector<int> tmpres,int idx,int remain,int &n){$/;"	f	class:Solution	file:
+findCombination	CombinationSum.cpp	/^    void findCombination(vector<int> &candidates,vector<vector<int> > &res,vector<int> curres,int curidx,int target){$/;"	f	class:Solution	file:
+findKth	MedianofTwoSortedArrays.cpp	/^    int findKth(int A[],int m,int B[],int n,int k){$/;"	f	class:Solution	file:
+findMedianSortedArrays	MedianofTwoSortedArrays.cpp	/^    double findMedianSortedArrays(int A[], int m, int B[], int n) {$/;"	f	class:Solution
+findTarget	CombinationSumII.cpp	/^    void findTarget(vector<int> &num,vector<vector<int> > &res,vector<int> cur,int idx,int target){$/;"	f	class:Solution	file:
+findelement	ConstructBinaryTreefromInorderandPostorderTraversal.cpp	/^    inline int findelement(vector<int> &array,int begin,int end,int target){$/;"	f	class:Solution	file:
+findelement	ConstructBinaryTreefromPreorderandInorderTraversal.cpp	/^    inline int findelement(vector<int> &num,int start,int end,int target){$/;"	f	class:Solution	file:
+findmin	EditDistance.cpp	/^    inline int findmin(int a,int b,int c){$/;"	f	class:Solution	file:
+firstMissingPositive	FirstMissingPositive.cpp	/^    int firstMissingPositive(int A[], int n) {$/;"	f	class:Solution
+firstMissingPositive	FirstMissingPositive_binarySearch.cpp	/^    int firstMissingPositive(int A[], int n) {$/;"	f	class:Solution
+flatten	FlattenBinaryTreetoLinkedList.cpp	/^    void flatten(TreeNode *root) {$/;"	f	class:Solution
+fourSum	4Sum.cpp	/^    vector<vector<int> > fourSum(vector<int> &num, int target) {$/;"	f	class:Solution
+generateParenthesis	GenerateParentheses.cpp	/^    vector<string> generateParenthesis(int n) {$/;"	f	class:Solution
+grayCode	GrayCode.cpp	/^    vector<int> grayCode(int n) {$/;"	f	class:Solution
+height	LargestRectangleinHistogram.cpp	/^		int height;$/;"	m	struct:Solution::PosInfo	file:
+info	BinaryTreeLevelOrderTraversal.cpp	/^		info(TreeNode *node,int level):addr(node),lvl(level){}$/;"	f	struct:Solution::info
+info	BinaryTreeLevelOrderTraversal.cpp	/^    struct info{$/;"	s	class:Solution	file:
+info	BinaryTreeLevelOrderTraversalII.cpp	/^		info(TreeNode *node,int level):addr(node),lvl(level){}$/;"	f	struct:Solution::info
+info	BinaryTreeLevelOrderTraversalII.cpp	/^    struct info{$/;"	s	class:Solution	file:
+info	BinaryTreeZigzagLevelOrderTraversal.cpp	/^		info(TreeNode *node,int x):addr(node),level(x){}$/;"	f	struct:Solution::info
+info	BinaryTreeZigzagLevelOrderTraversal.cpp	/^    struct info{$/;"	s	class:Solution	file:
+inorderTraversal	BinaryTreeInorderTraversal.cpp	/^    vector<int> inorderTraversal(TreeNode *root) {$/;"	f	class:Solution
+insert	InsertInterval.cpp	/^    vector<Interval> insert(vector<Interval> &intervals, Interval newInterval) {$/;"	f	class:Solution
+intToRoman	IntegertoRoman.cpp	/^    string intToRoman(int num) {$/;"	f	class:Solution
+isInterleave	InterleavingString.cpp	/^    bool isInterleave(string s1, string s2, string s3) {$/;"	f	class:Solution
+isInterleave	unsolved/InterleavingString_StackMethod.cpp	/^    bool isInterleave(string s1, string s2, string s3) {$/;"	f	class:Solution
+isMatch	WildcardMatching(withWildcardTwoside) - Copy.cpp	/^    bool isMatch(const char *s, const char *p) {$/;"	f	class:Solution
+isMatch	WildcardMatching.cpp	/^    bool isMatch(const char *s, const char *p) {$/;"	f	class:Solution
+isOne	IntegertoRoman.cpp	/^	inline bool isOne(int base){$/;"	f	class:Solution	file:
+isValid	ValidParentheses.cpp	/^    bool isValid(string s) {$/;"	f	class:Solution
+isValidBST	ValidateBinarySearchTree.cpp	/^    bool isValidBST(TreeNode *root) {$/;"	f	class:Solution
+isValidSudoku	ValidSudoku.cpp	/^    bool isValidSudoku(vector<vector<char> > &board) {$/;"	f	class:Solution
+j	RotateImage.cpp	/^													1->(i,i+j)				0,0$/;"	v
+jump	JumpGameII.cpp	/^    int jump(int A[], int n) {$/;"	f	class:Solution
+largestRectangleArea	LargestRectangleinHistogram.cpp	/^    int largestRectangleArea(vector<int> &height) {$/;"	f	class:Solution
+largestRectangleArea	unsolved/LargestRectangleinHistogram_Normal.cpp	/^    int largestRectangleArea(vector<int> &height) {$/;"	f	class:Solution
+largestRectangleArea	unsolved/LargestRectangleinHistogram_dp.cpp	/^    int largestRectangleArea(vector<int> &height) {$/;"	f	class:Solution
+lengthOfLastWord	LengthofLastWord.cpp	/^    int lengthOfLastWord(const char *s) {$/;"	f	class:Solution
+lengthOfLongestSubstring	LongestSubstringWithoutRepeatingCharacters.cpp	/^    int lengthOfLongestSubstring(string s) {$/;"	f	class:Solution
+lessvector	CombinationSumII.cpp	/^    struct lessvector{$/;"	s	class:Solution	file:
+letterCombinations	LetterCombinationsofaPhoneNumber.cpp	/^    vector<string> letterCombinations(string digits) {$/;"	f	class:Solution
+level	BinaryTreeZigzagLevelOrderTraversal.cpp	/^		int level;$/;"	m	struct:Solution::info	file:
+levelOrder	BinaryTreeLevelOrderTraversal.cpp	/^    vector<vector<int> > levelOrder(TreeNode *root) {$/;"	f	class:Solution
+levelOrderBottom	BinaryTreeLevelOrderTraversalII.cpp	/^    vector<vector<int> > levelOrderBottom(TreeNode *root) {$/;"	f	class:Solution
+location	WordSearch.cpp	/^		location(int x,int y,int step):_x(x),_y(y),_step(step),direction(4){}$/;"	f	struct:Solution::location
+location	WordSearch.cpp	/^    struct location{$/;"	s	class:Solution	file:
+longestCommonPrefix	LongestCommonPrefix.cpp	/^    string longestCommonPrefix(vector<string> &strs) {$/;"	f	class:Solution
+longestPalindrome	LongestPalindromicSubstring.cpp	/^    string longestPalindrome(string s) {$/;"	f	class:Solution
+longestPalindrome	unsolved/palindrome.cpp	/^string longestPalindrome(string s) {$/;"	f
+longestValidParentheses	LongestValidParentheses.cpp	/^    int longestValidParentheses(string s) {$/;"	f	class:Solution
+lvl	BinaryTreeLevelOrderTraversal.cpp	/^		int lvl;$/;"	m	struct:Solution::info	file:
+lvl	BinaryTreeLevelOrderTraversalII.cpp	/^		int lvl;$/;"	m	struct:Solution::info	file:
+main	AddTwoNumbers.cpp	/^int main(){$/;"	f
+main	Test/test.cpp	/^int main(){$/;"	f
+maxArea	ContainerWithMostWater.cpp	/^    int maxArea(vector<int> &height) {$/;"	f	class:Solution
+maxDepth	MaximumDepthofBinaryTree.cpp	/^    int maxDepth(TreeNode *root) {$/;"	f	class:Solution
+maxPathSum	BinaryTreeMaximumPathSum.cpp	/^    int maxPathSum(TreeNode *root) {$/;"	f	class:Solution
+maxProfit	BestTimetoBuyandSellStock.cpp	/^    int maxProfit(vector<int> &prices) {$/;"	f	class:Solution
+maxProfit	BestTimetoBuyandSellStockII.cpp	/^    int maxProfit(vector<int> &prices) {$/;"	f	class:Solution
+maxProfit	BestTimetoBuyandSellStockIII.cpp	/^    int maxProfit(vector<int> &prices) {$/;"	f	class:Solution
+maxSubArray	MaximumSubarray.cpp	/^    int maxSubArray(int A[], int n) {$/;"	f	class:Solution
+maximalRectangle	MaximalRectangle.cpp	/^    int maximalRectangle(vector<vector<char> > &matrix){$/;"	f	class:Solution
+merge	MergeIntervals.cpp	/^    vector<Interval> merge(vector<Interval> &intervals) {$/;"	f	class:Solution
+merge	MergeSortedArray.cpp	/^    void merge(int A[], int m, int B[], int n) {$/;"	f	class:Solution
+mergeKLists	MergekSortedLists.cpp	/^    ListNode *mergeKLists(vector<ListNode *> &lists) {$/;"	f	class:Solution
+mergeTwoLists	MergeTwoSortedLists.cpp	/^    ListNode *mergeTwoLists(ListNode *l1, ListNode *l2) {$/;"	f	class:Solution
+minDepth	MinimumDepthofBinaryTree.cpp	/^    int minDepth(TreeNode *root) {$/;"	f	class:Solution
+minDistance	EditDistance.cpp	/^    int minDistance(string word1, string word2) {$/;"	f	class:Solution
+minPathSum	MinimumPathSum.cpp	/^    int minPathSum(vector<vector<int> > &grid) {$/;"	f	class:Solution
+minWindow	MinimumWindowSubstring.cpp	/^    string minWindow(string S, string T) {$/;"	f	class:Solution
+multiply	MultiplyStrings.cpp	/^    string multiply(string num1, string num2) {$/;"	f	class:Solution
+next	AddTwoNumbers.cpp	/^   ListNode *next;$/;"	m	struct:ListNode	file:
+nextParenthesis	GenerateParentheses.cpp	/^	void nextParenthesis(vector<string> &res,string curres,int remain,int avail_left,int avail_right){$/;"	f	class:Solution	file:
+nextPermutation	NextPermutation.cpp	/^    void nextPermutation(vector<int> &num) {$/;"	f	class:Solution
+nextSlot	N-Queens.cpp	/^	void nextSlot(int x,int y,int remain,vector<string> cur,vector<vector<string> > &res){$/;"	f	class:Solution	file:
+nextSlot	N-QueensII.cpp	/^	void nextSlot(int x,int y,char* available,int remain,int &res){$/;"	f	class:Solution	file:
+nextSlot	Test/test.cpp	/^	void nextSlot(int x,int y,int remain,vector<string> cur,vector<vector<string> > &res){$/;"	f	class:Solution	file:
+nextbase	IntegertoRoman.cpp	/^    inline int nextbase(int base){$/;"	f	class:Solution	file:
+numDecodings	DecodeWays.cpp	/^    int numDecodings(string s) {$/;"	f	class:Solution
+numDistinct	DistinctSubsequence.cpp	/^    int numDistinct(string S, string T) {$/;"	f	class:Solution
+operator ()	4Sum.cpp	/^        size_t operator() (const string& str) const{$/;"	f	struct:Solution::str_hash
+operator ()	Anagrams.cpp	/^        size_t operator()(const string& str)const{$/;"	f	struct:Solution::str_hash
+operator ()	CombinationSumII.cpp	/^        bool operator()(const vector<int> &a,const vector<int> &b){$/;"	f	struct:Solution::lessvector
+operator ()	MergeIntervals.cpp	/^		bool operator()(Interval a,Interval b){return a.start<b.start;}$/;"	f	struct:Solution::comp
+operator ()	MergekSortedLists.cpp	/^        bool operator()(const ListNode *p1,const ListNode *p2){$/;"	f	struct:Solution::comp
+operator ()	Test/AnagramsLoop.cpp	/^        size_t operator()(const string& str)const{$/;"	f	struct:Solution::str_hash
+permutation	Test/AnagramsLoop.cpp	/^    string permutation(string s){$/;"	f	class:Solution	file:
+pos	LargestRectangleinHistogram.cpp	/^		int pos;$/;"	m	struct:Solution::PosInfo	file:
+preProcess	unsolved/palindrome.cpp	/^string preProcess(string s) {$/;"	f
+ptr1	unsolved/InterleavingString_StackMethod.cpp	/^        int ptr1;$/;"	m	struct:Solution::PtrInfo	file:
+ptr2	unsolved/InterleavingString_StackMethod.cpp	/^		int ptr2;$/;"	m	struct:Solution::PtrInfo	file:
+ptr3	unsolved/InterleavingString_StackMethod.cpp	/^		int ptr3;$/;"	m	struct:Solution::PtrInfo	file:
+returnMax	BinaryTreeMaximumPathSum.cpp	/^    int returnMax(TreeNode* node,int& max){$/;"	f	class:Solution	file:
+root	ConstructBinaryTreefromInorderandPostorderTraversal.cpp	/^		TreeNode* root;$/;"	m	struct:Solution::NodeInfo	file:
+root	ConstructBinaryTreefromPreorderandInorderTraversal.cpp	/^		TreeNode *root;$/;"	m	struct:Solution::NodeInfo	file:
+rotate	RotateImage.cpp	/^    void rotate(vector<vector<int> > &matrix) {$/;"	f	class:Solution
+rotateRight	RotateList.cpp	/^    ListNode *rotateRight(ListNode *head, int k) {$/;"	f	class:Solution
+solveNQueens	N-Queens.cpp	/^    vector<vector<string> > solveNQueens(int n) {$/;"	f	class:Solution
+solveNQueens	Test/test.cpp	/^    vector<vector<string> > solveNQueens(int n) {$/;"	f	class:Solution
+sortedArrayToBST	ConvertSortedArraytoBinarySearchTree.cpp	/^    TreeNode *sortedArrayToBST(vector<int> &num) {$/;"	f	class:Solution
+sortedListToBST	ConvertSortedListtoBinarySearchTree.cpp	/^    TreeNode *sortedListToBST(ListNode *head) {$/;"	f	class:Solution
+start_in	ConstructBinaryTreefromInorderandPostorderTraversal.cpp	/^		int start_in;$/;"	m	struct:Solution::NodeInfo	file:
+start_in	ConstructBinaryTreefromPreorderandInorderTraversal.cpp	/^		int start_in;$/;"	m	struct:Solution::NodeInfo	file:
+start_post	ConstructBinaryTreefromInorderandPostorderTraversal.cpp	/^		int start_post;$/;"	m	struct:Solution::NodeInfo	file:
+start_pre	ConstructBinaryTreefromPreorderandInorderTraversal.cpp	/^		int start_pre;$/;"	m	struct:Solution::NodeInfo	file:
+strStr	ImplementstrStr().cpp	/^    char *strStr(char *haystack, char *needle) {$/;"	f	class:Solution
+str_code	Anagrams.cpp	/^    string str_code(string s){$/;"	f	class:Solution	file:
+str_hash	4Sum.cpp	/^    struct str_hash{    \/\/hash function for string$/;"	s	class:Solution	file:
+str_hash	Anagrams.cpp	/^    struct str_hash{$/;"	s	class:Solution	file:
+str_hash	Test/AnagramsLoop.cpp	/^    struct str_hash{$/;"	s	class:Solution	file:
+swap	NextPermutation.cpp	/^    inline void swap(int& a,int& b){$/;"	f	class:Solution	file:
+threeSum	3sum.cpp	/^    vector<vector<int> > threeSum(vector<int> &num) {$/;"	f	class:Solution
+threeSumClosest	3Sum Closest.cpp	/^    int threeSumClosest(vector<int> &num, int target) {$/;"	f	class:Solution
+to_int	DecodeWays.cpp	/^	inline int to_int(char a){$/;"	f	class:Solution	file:
+to_int	DecodeWays.cpp	/^    inline int to_int(char a,char b){$/;"	f	class:Solution	file:
+totalNQueens	N-QueensII.cpp	/^    int totalNQueens(int n) {$/;"	f	class:Solution
+val	AddTwoNumbers.cpp	/^   int val;$/;"	m	struct:ListNode	file:
+zigzagLevelOrder	BinaryTreeZigzagLevelOrderTraversal.cpp	/^    vector<vector<int> > zigzagLevelOrder(TreeNode *root) {$/;"	f	class:Solution
