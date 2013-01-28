@@ -13,7 +13,7 @@ You should return the indices: [0,9].
 class Solution {
     struct str_hash{
         size_t operator()(const string &s)const{
-        	return __stl_hash_string(s.c_str());
+            return __stl_hash_string(s.c_str());
 		}
 	};
 public:
@@ -43,20 +43,39 @@ public:
 		
 		int *check=new int[wclen];
 		for(int k=0;k<wlen;k++){
-			for(int i=k,j;i<slen-llen*wlen+1;i+=wlen){
-			
-           		memcpy(check,wordcount,wclen*sizeof(int));
-            
-				for(j=i;j<i+llen*wlen;j+=wlen){
-                	string str=S.substr(j,wlen);
+			memcpy(check,wordcount,wclen*sizeof(int));
+			for(int i=k,j=k;i<slen-llen*wlen+1;){
+				string str="";
+				for(;j<i+llen*wlen;j+=wlen){
+					str=S.substr(j,wlen);
 					if(hm.count(str)&&check[hm[str]])
 						check[hm[str]]--;
 					else
 						break;
+					
 				}
-			
-				if(j==i+llen*wlen)
-					res.push_back(i);
+				
+				if(!hm.count(str)){	//not existed
+					while(i<j){
+						check[hm[S.substr(i,wlen)]]++;
+						i+=wlen;
+					}
+					j+=wlen;
+					i=j;
+				}
+				else{
+					if(j==i+llen*wlen){ //target found
+						res.push_back(i);
+						check[hm[S.substr(i,wlen)]]++;
+						i+=wlen;
+					}
+					else{			//count exceeded
+						while(S.substr(i,wlen)!=str)
+							i+=wlen;
+						i+=wlen;
+						j+=wlen;
+					}
+				}
 			}
 		}
 		delete []wordcount;
