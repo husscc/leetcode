@@ -42,6 +42,36 @@ public:
     bool isScramble(string s1, string s2) {
         // Start typing your C/C++ solution below
         // DO NOT write int main() function
-        
+        int slen=s1.size();
+		if(slen!=s2.size())
+			return false;
+        vector<vector<vector<unsigned char> > > matrix;
+		
+		for(int i=0;i<slen;i++)
+			matrix.push_back(vector<vector<unsigned char> >(slen-i,vector<unsigned char>(slen-i,0x0)));
+			
+		for(int i=0;i<slen;i++){
+			for(int j=0;j<slen;j++){
+				if(s1[i]==s2[j])
+					matrix[0][i][j]=1;
+			}
+		}
+		
+		for(int i=1;i<slen;i++){
+			for(int j=0;j<slen-i;j++){
+				for(int k=0;k<slen-i;k++){
+					for(int l=0;l<i;l++){
+						if(
+							(matrix[l][j][k]&&matrix[i-l-1][j+l+1][k+l+1])||
+							(matrix[l][j][k+i-l]&&matrix[i-l-1][j+l+1][k])
+						){
+							matrix[i][j][k]=1;
+							break;
+						}
+					}
+				}
+			}
+		}
+		return matrix[slen-1][0][0];
     }
 };
